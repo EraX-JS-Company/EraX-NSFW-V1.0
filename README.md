@@ -4,8 +4,8 @@ Scripts for Finetuning YOLOv11 for NSFW detection
 ## Quickstart
 **Install & Training**:
 ```curl
-sh install_package.sh
-sh run_training.sh
+sh scripts/install_package.sh
+sh scripts/run_training.sh
 ```
 
 ## Citation 
