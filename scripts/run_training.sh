@@ -1,4 +1,4 @@
-yolo \
+MKL_SERVICE_FORCE_INTEL=1 yolo \
     task=detect \
     mode=train \
     model=yolo11m.pt \
